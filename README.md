@@ -1,7 +1,14 @@
 # 👨‍💻 Jonnathan Santos
-**`Desenvolvedor FullStack`**
 
-Me chamo Jonnathan Santos, tenho 23 anos e atualmente resido em São Paulo Capital. Atualmente, estou cursando técnico em Desenvolvimento de Sistemas na ETEC-HAS. Sou apaixonado por tecnologia e principalmente computação, compartilho meus conhecimentos através do Instagram, com o perfil chamado "[_jscode](https://www.instagram.com/_jscode/))".
+
+## Me chamo Jonnathan Santos, tenho 23 anos e resido em São Paulo . Sou um desenvolvedor dedicado, curioso e obstinado. Tenho paixão por aprender e foco em entregar resultados de alta qualidade. Comprometido, busco contribuir ativamente nos projetos, compartilho meus conhecimentos através do Instagram, com o perfil chamado [_jscode](https://www.instagram.com/_jscode/).
+
+### Vamos nos conectar :
+
+	
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonnathan2020)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jonnathan-santos)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jscode/)
 
 <p align="left"> 
     <a href="https://github.com/Jonanthan2020?tab=repositories&sort=stargazers">
@@ -137,6 +144,9 @@ Me chamo Jonnathan Santos, tenho 23 anos e atualmente resido em São Paulo Capit
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Jonnathan2020&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+</p>
+
+<p>
 
 <img 
       align="left" 
@@ -144,5 +154,6 @@ Me chamo Jonnathan Santos, tenho 23 anos e atualmente resido em São Paulo Capit
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonnathan2020&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 
 </p>
